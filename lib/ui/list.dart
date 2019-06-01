@@ -1,9 +1,9 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:majar_event/const/const.dart';
-import 'package:majar_event/data/model/event.dart';
-import 'package:majar_event/tools/logger.dart';
-import 'package:majar_event/tools/snack_bar.dart';
+import 'package:major_event/const/const.dart';
+import 'package:major_event/data/model/event.dart';
+import 'package:major_event/tools/logger.dart';
+import 'package:major_event/tools/snack_bar.dart';
 
 class CardItem extends StatelessWidget {
   final Event item;

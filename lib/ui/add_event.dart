@@ -1,9 +1,8 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:majar_event/data/model/event.dart';
-import 'package:majar_event/res/strings.dart';
-import 'package:majar_event/tools/logger.dart';
-import 'package:majar_event/tools/snack_bar.dart';
+import 'package:major_event/data/model/event.dart';
+import 'package:major_event/res/strings.dart';
+import 'package:major_event/tools/logger.dart';
 
 class AddEventPage extends StatefulWidget {
   final String title;
